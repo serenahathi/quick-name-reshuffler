@@ -9,7 +9,7 @@ class LolHost
   end
 
   def initialize
-    @names = ["Serena", "Dan", "Marcus", "Ben"]
+    @names = ["Serena", "Josu", "Terry", "Lewis", "Laura"]
   end
 
   def pick_lolhost
